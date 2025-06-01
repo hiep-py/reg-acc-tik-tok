@@ -105,6 +105,9 @@ Sau đó nhập:
 - Nếu CAPTCHA xuất hiện, tool sẽ chờ `600s` rồi tiếp tục
 
 ---
+## Cảm Ơn 
+
+ <#--Cảm ơn  bạn nhandzcl đã ủng hộ 20,000 vnd--#>
 
 ## 👨‍💻 Liên hệ
 
