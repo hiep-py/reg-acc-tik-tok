@@ -998,7 +998,9 @@ def main():
     logger.info("- Chương trình sẽ chạy đa luồng để đăng ký nhiều tài khoản cùng lúc")
     logger.info(f"- Cửa sổ Chrome sẽ được đặt kích thước {CONFIG['BROWSER_WIDTH']}x{CONFIG['BROWSER_HEIGHT']} để dễ quan sát.")
     logger.info("- TÁC GIẢ: Hồ Hiệp x HVHTOOL")
-    logger.info("")
+    logger.info("Github: https://github.com/hiep-py/reg-acc-tik-tok")
+    logger.info("Youtube: https://www.youtube.com/@hiep-py")
+    logger.info("Youtube: https://www.youtube.com/@HVHTOOL")
     logger.info("- PHIÊN BẢN CẢI TIẾN: 2.19")
     logger.info("====================================\n")
 
