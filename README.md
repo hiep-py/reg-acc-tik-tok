@@ -2,7 +2,7 @@
 
 **Tác giả**: Hồ Hiệp x HVHTOOL  
 **Mô tả**: Công cụ đăng ký tài khoản TikTok tự động bằng Selenium, hỗ trợ proxy và đa luồng.  
-**Phiên bản**: 2.19 – Cải tiến logic xác nhận đăng ký từ `loginfb copy 2.py`.
+**Phiên bản**: 2.19 – Cải tiến logic xác nhận đăng ký
 
 ---
 
